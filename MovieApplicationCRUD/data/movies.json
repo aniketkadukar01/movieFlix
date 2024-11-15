@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Inception",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": 148,
+    "ratings": 8.8,
+    "totalRating": 2100000,
+    "releaseYear": 2010,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "coverImage": "inception.jpg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "price": 9.99
+  },
+  {
+    "name": "Interstellar",
+    "description": "A science fiction film that explores love, sacrifice, and the vastness of space.",
+    "duration": 169,
+    "ratings": 8.6,
+    "totalRating": 1800000,
+    "releaseYear": 2014,
+    "releaseDate": "2014-11-07T00:00:00.000Z",
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Drama"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "coverImage": "interstellar.jpg",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "price": 14.99
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "Batman faces the Joker, a criminal mastermind who seeks to plunge Gotham City into anarchy.",
+    "duration": 152,
+    "ratings": 9.0,
+    "totalRating": 2300000,
+    "releaseYear": 2008,
+    "releaseDate": "2008-07-18T00:00:00.000Z",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "coverImage": "the_dark_knight.jpg",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "price": 12.99
+  },
+  {
+    "name": "The Matrix",
+    "description": "A hacker discovers the truth about his reality and his role in the war against its controllers.",
+    "duration": 136,
+    "ratings": 8.7,
+    "totalRating": 1800000,
+    "releaseYear": 1999,
+    "releaseDate": "1999-03-31T00:00:00.000Z",
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "directors": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "coverImage": "the_matrix.jpg",
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "price": 9.99
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "duration": 142,
+    "ratings": 9.3,
+    "totalRating": 2400000,
+    "releaseYear": 1994,
+    "releaseDate": "1994-09-23T00:00:00.000Z",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "directors": [
+      "Frank Darabont"
+    ],
+    "coverImage": "the_shawshank_redemption.jpg",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "price": 7.99
+  }
+]

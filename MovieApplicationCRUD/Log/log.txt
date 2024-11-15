@@ -1,0 +1,26 @@
+A new movie document with name Whiplash has been created by Aniket
+A new movie document with name Mad Max: Fury Road has been created by Aniket
+Query took 47 milliseconds to fetch the document
+Query took 19 milliseconds to fetch the document
+Query took 59 milliseconds to fetch the document
+Query took 81 milliseconds to fetch the document
+Query took 145 milliseconds to fetch the document
+Query took 162 milliseconds to fetch the document
+Query took 56 milliseconds to fetch the document
+Query took 42 milliseconds to fetch the document
+Query took 123 milliseconds to fetch the document
+Query took 477 milliseconds to fetch the document
+Query took 50 milliseconds to fetch the document
+A new movie document with name La La Land has been created by Aniket
+A new movie document with name The Grand Budapest Hotel has been created by Aniket
+A new movie document with name The Social Network has been created by Aniket
+A new movie document with name Coco has been created by Aniket
+Query took 28 milliseconds to fetch the document
+Query took 46 milliseconds to fetch the document
+Query took 24 milliseconds to fetch the document
+Query took 21 milliseconds to fetch the document
+Query took 22 milliseconds to fetch the document
+Query took 52 milliseconds to fetch the document
+Query took 15 milliseconds to fetch the document
+Query took 14 milliseconds to fetch the document
+Query took 17 milliseconds to fetch the document
